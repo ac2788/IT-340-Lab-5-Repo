@@ -62,3 +62,35 @@ tmpfs           5.0M  8.0K  5.0M   1% /run/lock
 tmpfs           387M  128K  387M   1% /run/user/1000
 /dev/sr0         98M   98M     0 100% /media/ac2788/CDROM
 
+===== System Monitor Log - Tue Apr  7 11:09:01 PM EDT 2026 =====
+--- Uptime ---
+ 23:09:01 up  1:12,  1 user,  load average: 0.11, 0.07, 0.02
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:         3960676     1292844     1468788       32640     1473804     2667832
+Swap:        3959804           0     3959804
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  1.9M  385M   1% /run
+/dev/sda2        40G  9.5G   28G  26% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         98M   98M     0 100% /media/ac2788/CDROM
+
+===== System Monitor Log - Tue Apr  7 11:10:01 PM EDT 2026 =====
+--- Uptime ---
+ 23:10:01 up  1:13,  1 user,  load average: 0.04, 0.05, 0.01
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:         3960676     1281672     1479928       32640     1473836     2679004
+Swap:        3959804           0     3959804
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  1.9M  385M   1% /run
+/dev/sda2        40G  9.5G   28G  26% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         98M   98M     0 100% /media/ac2788/CDROM
+
